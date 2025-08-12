@@ -1,0 +1,6 @@
+/* probe: just for testing */
+html { outline: 4px solid red !important; }
+@import "./styles/globals.css";   
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
